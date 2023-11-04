@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kIKIg5eaeZg9G87R8YXBgWb4qqZ2SGuL0fBXhWLLiKU=",
+  "Source": "DummyApi",
+  "BasePath": "_content/DummyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
